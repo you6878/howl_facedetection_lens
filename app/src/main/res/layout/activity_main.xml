@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <androidx.camera.view.PreviewView
+            android:visibility="invisible"
+            android:id="@+id/view_finder"
+            android:layout_width="240dp"
+            android:layout_height="320dp"/>
+        <ImageView
+            android:id="@+id/view_finder_imageview"
+            android:layout_width="240dp"
+            android:layout_height="320dp"/>
+        <com.howlab.howlcolorlens.GraphicOverlay
+            android:id="@+id/graphic_overlay"
+            android:layout_width="240dp"
+            android:layout_height="320dp"/>
+
+    </RelativeLayout>
+</layout>

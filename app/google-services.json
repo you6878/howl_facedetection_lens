@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "380650704299",
+    "firebase_url": "https://newfirebase-4631e.firebaseio.com",
+    "project_id": "newfirebase-4631e",
+    "storage_bucket": "newfirebase-4631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380650704299:android:2e5763f27187a4119b96ee",
+        "android_client_info": {
+          "package_name": "com.howlab.howlcolorlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQ7TvqvkxotZCDI-MS5I_0H1qfLyFX8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380650704299:android:48dd786fe0b2d5919b96ee",
+        "android_client_info": {
+          "package_name": "com.howlab.howltranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380650704299-8fb7smfd0j1l2jsq2pjjcq3h5k3tmc9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howlab.howltranslate",
+            "certificate_hash": "c2bbfaed6e8c7e6f1ae0ee4af0ae69a67f24e036"
+          }
+        },
+        {
+          "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQ7TvqvkxotZCDI-MS5I_0H1qfLyFX8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380650704299:android:b673c1d1a9c3d6fa9b96ee",
+        "android_client_info": {
+          "package_name": "com.howlab.howltranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQ7TvqvkxotZCDI-MS5I_0H1qfLyFX8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380650704299-uhvhpqvqt0khrc1ermuk0u3o0bvf0421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
